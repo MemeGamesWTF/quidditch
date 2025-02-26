@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740571160,
+	"version": 1740571857,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,16 +17,8 @@
 		"images/diamond-sheet1.png",
 		"images/particlessnitch.png",
 		"images/particlescloak.png",
-		"media/tap.m4a",
-		"media/tap.ogg",
-		"media/collect diamond.m4a",
-		"media/collect diamond.ogg",
-		"media/game over (2).m4a",
-		"media/game over (2).ogg",
 		"media/coin collect.m4a",
 		"media/coin collect.ogg",
-		"media/whale sound.m4a",
-		"media/whale sound.ogg",
 		"media/game over (5).m4a",
 		"media/game over (5).ogg",
 		"media/dementors sound 2.m4a",
